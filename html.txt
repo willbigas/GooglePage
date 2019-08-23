@@ -1,0 +1,77 @@
+<section id="div-apps">
+        <ul>
+            <li>
+                <a href="#">
+                    <figure>
+                        <img src="images/apps/pesquisa.png" alt="Pesquisa">
+                        <figcaption>Pesquisa</figcaption>
+                    </figure>
+                </a>
+            <li>
+            </li>
+                <a href="#">
+                    <figure>
+                        <img src="images/apps/youtube.png" alt="YouTube">
+                        <figcaption>YouTube</figcaption>
+                    </figure>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <figure>
+                        <img src="images/apps/maps.png" alt="Mapa">
+                        <figcaption>Maps</figcaption>
+                    </figure>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <figure>
+                        <img src="images/apps/play.png" alt="Play">
+                        <figcaption>Play</figcaption>
+                    </figure>
+                </a>
+            <li>
+            </li>
+                <a href="#">
+                    <figure>
+                        <img src="images/apps/noticias.png" alt="Notícias">
+                        <figcaption>Notícias</figcaption>
+                    </figure>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <figure>
+                        <img src="images/apps/gmail.png" alt="Gmail">
+                        <figcaption>Gmail</figcaption>
+                    </figure>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <figure>
+                        <img src="images/apps/drive.png" alt="Drive">
+                        <figcaption>Drive</figcaption>
+                    </figure>
+                </a>
+            <li>
+            </li>
+                <a href="#">
+                    <figure>
+                        <img src="images/apps/agenda.png" alt="Agenda">
+                        <figcaption>Agenda</figcaption>
+                    </figure>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <figure>
+                        <img src="images/apps/sites.png" alt="Sites">
+                        <figcaption>Sites</figcaption>
+                    </figure>
+                </a>
+            </li>
+        </ul>
+        <a id="more-apps" href="#">Mais</a>
+    </section>
